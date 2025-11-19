@@ -14,3 +14,6 @@ if (burger > 500) {
 else {
     console.log("You have to pay for the coke");
 }
+
+
+

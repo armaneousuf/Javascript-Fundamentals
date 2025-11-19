@@ -10,3 +10,17 @@ write a simple if-else.
 also, write it using ternary operator.
 
  */
+
+
+
+let num1 = 10;
+let num2 = 15;
+let result;
+
+if (num1 > num2) {
+  result = (2 * num1);
+} else {
+  result = (num1 + num2);
+}
+
+let result2 = num1 > num2 ? 2 * num1 : num1 + num2;
