@@ -1,3 +1,6 @@
+// Task-1:
+// Access the 'golden rod' color value in output.
+
 const colors = {
   red: "#ff0000",
   green: "#00ff00",
@@ -5,4 +8,4 @@ const colors = {
   "golden rod": "#daa520",
 };
 
-console.log(colors["golden rod"]);
+console.log(colors['golden rod']);

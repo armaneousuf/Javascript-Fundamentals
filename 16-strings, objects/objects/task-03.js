@@ -1,3 +1,6 @@
+// Task-3:
+// Display the physics marks as output.
+
 const student = {
   name: "Hamim Sakep",
   id: 5421,
@@ -8,5 +11,4 @@ const student = {
   },
 };
 
-const items = Object.keys;
 console.log(student.physics.marks);
